@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angeld287&label=Profile%20views&color=0e75b6&style=flat" alt="angeld287" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=angeld287" alt="angeld287" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/thedanyrc" target="blank"><img src="https://img.shields.io/twitter/follow/thedanyrc?logo=twitter&style=for-the-badge" alt="thedanyrc" /></a> </p>
 
 - 👯 I’m looking to collaborate on **some nodejs and react project in order to gain experience.**
