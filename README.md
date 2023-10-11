@@ -3,13 +3,13 @@
 
 - 👯 I’m looking to collaborate on **some nodejs and react project in order to gain experience.**
 
-- 👨‍💻 All of my projects are available at [aangeles.com](aangeles.com)
+- 👨‍💻 All of my projects are available at [aangeles.com](https://www.aangeles.com/)
 
 - 💬 Ask me about **Javascript and React knowledge**
 
 - 📫 You can reach me at my email: **daniel_1234@hotmail.es**
 
-- 📄 Know about my experiences on my CV: [https://github.com/angeld287/fundamentals/blob/master/cv/Angel_Angeles.pdf](https://github.com/angeld287/fundamentals/blob/master/cv/Angel_Angeles.pdf)
+- 📄 Know about my experiences on my CV: [link](https://github.com/angeld287/fundamentals/blob/master/cv/Angel_Angeles.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
