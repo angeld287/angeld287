@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Angel Angeles</h1>
 <h3 align="center">A passionate Javascript developer from Dominican Republic</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=angeld287&label=Profile%20views&color=0e75b6&style=flat" alt="angeld287" /> </p>
+
 <p align="left"> <a href="https://twitter.com/thedanyrc" target="blank"><img src="https://img.shields.io/twitter/follow/thedanyrc?logo=twitter&style=for-the-badge" alt="thedanyrc" /></a> </p>
 
 - 👯 I’m looking to collaborate on **some nodejs and react project in order to gain experience.**
